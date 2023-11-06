@@ -6,7 +6,8 @@
 Step by step guide for DevOps, SRE or any other Operations Role in 2023
 - [About DevOps](/topics/about-devops.md)
 - Learn a Language
-  - Python
+  - .NET
+  - Java
 - Operating system
   - Windows
   - Linux
