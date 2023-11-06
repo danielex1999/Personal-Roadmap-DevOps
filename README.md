@@ -7,7 +7,7 @@ Step by step guide for DevOps, SRE or any other Operations Role in 2023
 - [About DevOps](/topics/about-devops.md)
 - Learn a Language
   - .NET
-  - Java
+  - [Java](https://github.com/danielex1999/Personal-Roadmap-Java-Developer)
 - Operating system
   - Windows
   - Linux
