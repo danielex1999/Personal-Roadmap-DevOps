@@ -1,5 +1,5 @@
 
-<img src="./img/devops.png" alt="devops" style="width:200px; margin:10px;"/>
+<img src="./img/devops.png" alt="devops" style="width:200px; margin:15px;"/>
 
 ## Personal Roadmap DevOps
 
