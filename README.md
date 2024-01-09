@@ -7,9 +7,10 @@ Step by step guide for DevOps, SRE or any other Operations Role in 2024
 - [About DevOps](/topics/about-devops.md)
 - Learn a Language
   - .NET
+  - JavaScript / Node.js
   - [Java](https://github.com/danielex1999/Personal-Roadmap-Java-Developer)
 - Operating system
-  - Windows
+  - [Windows](https://learn.microsoft.com/en-us/windows/)
   - Linux
     - Ubuntu / Debian
     - RHEL / Derivatives
