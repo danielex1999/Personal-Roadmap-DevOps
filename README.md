@@ -3,7 +3,7 @@
 
 ## Personal Roadmap DevOps
 
-Step by step guide for DevOps, SRE or any other Operations Role in 2023
+Step by step guide for DevOps, SRE or any other Operations Role in 2024
 - [About DevOps](/topics/about-devops.md)
 - Learn a Language
   - .NET

@@ -60,7 +60,8 @@ Scrum, SAFe, Kanban y Lean, que se soportan sobre algunos de sus valores y princ
 
 ### ¿Qué es Lean Management?
 
-DevOps también se complementa con el marco de referencia Lean, que se enfoca en construir productos de manera correcta, reduciendo el desperdicio y la mala calidad.
+DevOps también se complementa con el marco de referencia Lean, que se enfoca en construir productos de manera correcta,
+reduciendo el desperdicio y la mala calidad.
 
 Lean es una aproximación para trasladar al mundo empresarial el concepto de mejora continua; entre sus objetivos están:
 
