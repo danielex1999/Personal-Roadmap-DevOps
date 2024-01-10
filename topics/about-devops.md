@@ -3,7 +3,7 @@
 ## Introducción a DevOps
 
 ### ¿Por qué es importante DevOps?
-
+ 
 DevOps permite que los roles que antes estaban aislados (desarrollo, operaciones de TI, ingeniería de la calidad y
 seguridad) se coordinen y colaboren para producir productos mejores y más confiables.
 
