@@ -9,7 +9,7 @@ seguridad) se coordinen y colaboren para producir productos mejores y más confi
 
 Al adoptar una cultura de DevOps junto con prácticas y herramientas de DevOps, los equipos adquieren la capacidad de
 responder mejor a las necesidades de los clientes, aumentar la confianza en las aplicaciones que crean y alcanzar los
-objetivos empresariales en menos tiempo.
+objetivos empresariales en menos tiempo. 
 
 ### ¿Que es DevOps?
 
